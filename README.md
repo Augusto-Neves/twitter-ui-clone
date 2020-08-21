@@ -3,7 +3,7 @@
 <p> Um clone parcial da interface de usuário responsiva do Twitter sem nenhum fim lucrativo apenas com propósito de estudo</p>
 
 <p>Responsive Twitter UI Clone (Partial) for study purposes. 
-I know that all creative rights belong to <a>twitter.com</a></p>
+I know that all creative rights belong to <a src="twitter.com">twitter</a></p>
 
 # Tecnologias usadas
 
