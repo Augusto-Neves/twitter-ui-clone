@@ -3,7 +3,7 @@
 <p> Um clone parcial da interface de usuário responsiva do Twitter sem nenhum fim lucrativo apenas com propósito de estudo</p>
 
 <p>Responsive Twitter UI Clone (Partial) for study purposes. 
-I know that all creative rights belong to <a src="twitter.com">twitter</a></p>
+I know that all creative rights belong to <a href="twitter.com">twitter</a></p>
 
 # Tecnologias usadas
 
@@ -32,7 +32,7 @@ Instale as dependências do projeto com o comando `$ npm install` ou `$ yarn ins
 Depois de instalar tudo é só rodar um `$ npm start` ou `$ yarn start` e depois acessar `http://localhost:3000` 
 
 # Notas
-Todo esse repósitorio foi feito seguindo esse vídeo `https://www.youtube.com/watch?v=K-8z_4xvT3o`
+Todo esse repósitorio foi feito seguindo esse [vídeo](https://www.youtube.com/watch?v=K-8z_4xvT3o).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
